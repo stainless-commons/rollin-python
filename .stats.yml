@@ -1,4 +1,4 @@
 configured_endpoints: 5
-openapi_spec_url: https://storage.googleapis.com/stainless-sdk-openapi-specs/stainless-commons%2Frollin-d74c3d4ca7ba96520dbec138670e805952ce9fde3d0db839f461454bdfd4e40e.yml
-openapi_spec_hash: a03774a443f2fb8bfe042956cd7ae65e
-config_hash: 329fb3d93c4713b4fca144001ad0f1af
+openapi_spec_url: https://storage.googleapis.com/stainless-sdk-openapi-specs/stainless-commons%2Frollin-7bcca4488c625ade3f4de4d4c2ecedbda347d11ce79e9146eaffa0f76142c1e4.yml
+openapi_spec_hash: 0a4ee54cf9bdf485a9763c82110dfdda
+config_hash: e3fcd81f3932d7df05c2524108bc7f20
